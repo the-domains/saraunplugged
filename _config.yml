@@ -1,7 +1,7 @@
 name: SaraUnplugged
 favicon: null
-layout_spectrum: 0.49211793881841004
-typography_spectrum: 0.5537484777159989
+layout_spectrum: 0
+typography_spectrum: 0.03358
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.6548263342119753
-  lightness: 0.6011999770998955
-  saturation: 0.8423732379451394
-  rhythmicContrast: 0.6384048636537045
+    - '#7e3000'
+    - '#c27b11'
+    - '#120806'
+    - '#caccc7'
+    - '#93948e'
+  brandStrength: 0.3125
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
